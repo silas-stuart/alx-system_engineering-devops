@@ -14,3 +14,4 @@ Write a script that lists all files (even ones with names beginning with a perio
 Write a script that prints the type of the file named
 Symbolic lin
 Copy HTML files
+Create a script that moves all files beginning with an uppercase letter to the directory
