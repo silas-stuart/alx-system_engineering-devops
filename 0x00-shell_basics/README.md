@@ -8,3 +8,4 @@ long format, with user and group IDs displayed numerically,hidden files
 create a directory inside a directory
 move a file to another directory
 delete a file in a directory
+delete a directory inside a directory
