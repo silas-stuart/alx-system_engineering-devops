@@ -6,3 +6,4 @@ command to display current directory contents in long format
 list files includig hidden starting with dot
 long format, with user and group IDs displayed numerically,hidden files
 create a directory inside a directory
+move a file to another directory
