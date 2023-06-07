@@ -9,3 +9,4 @@ create a directory inside a directory
 move a file to another directory
 delete a file in a directory
 delete a directory inside a directory
+navigate to the previous directory
