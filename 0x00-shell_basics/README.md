@@ -12,4 +12,5 @@ delete a directory inside a directory
 navigate to the previous directory
 Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) /boot
 Write a script that prints the type of the file named
-Symbolic link
+Symbolic lin
+Copy HTML files
