@@ -7,3 +7,4 @@ list files includig hidden starting with dot
 long format, with user and group IDs displayed numerically,hidden files
 create a directory inside a directory
 move a file to another directory
+delete a file in a directory
