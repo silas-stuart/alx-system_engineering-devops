@@ -10,3 +10,4 @@ move a file to another directory
 delete a file in a directory
 delete a directory inside a directory
 navigate to the previous directory
+Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) /boot
