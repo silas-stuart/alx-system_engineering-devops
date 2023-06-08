@@ -7,3 +7,4 @@ SCRIPTS for:
 6.Adds execute permission to the owner of a file
 7.Adds execute permission to owner, group and permit others to read only
 8.Execute permission to user, group and others
+9.Give access to only to others
