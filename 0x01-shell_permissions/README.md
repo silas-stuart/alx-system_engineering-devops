@@ -3,3 +3,4 @@ Create a script that switches the current user to the user
 Printing the effective username of the current user
 Printing all the groups the current user is part of
 Script that changes current owner to new owner
+Creating an empty file
