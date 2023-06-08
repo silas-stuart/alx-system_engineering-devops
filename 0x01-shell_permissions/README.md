@@ -9,3 +9,4 @@ SCRIPTS for:
 8.Execute permission to user, group and others
 9.Give access to only to others
 10.Set mode of a file to -rwxr-x-wx
+11.Set the mode of a file same to another files mode
