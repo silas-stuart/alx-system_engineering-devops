@@ -10,3 +10,4 @@ SCRIPTS for:
 9.Give access to only to others
 10.Set mode of a file to -rwxr-x-wx
 11.Set the mode of a file same to another files mode
+12.Adding execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
