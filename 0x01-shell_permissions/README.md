@@ -14,3 +14,4 @@ SCRIPTS for:
 13.Create a script that creates a directory with permissions 751
 14.Change current group to another group
 15.Change the owner to a certain user from a certain user
+16.Write a script that changes the owner and the group owner
