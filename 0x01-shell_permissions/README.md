@@ -6,3 +6,4 @@ SCRIPTS for:
 5.Creating an empty file
 6.Adds execute permission to the owner of a file
 7.Adds execute permission to owner, group and permit others to read only
+8.Execute permission to user, group and others
