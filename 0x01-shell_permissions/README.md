@@ -13,3 +13,4 @@ SCRIPTS for:
 12.Adding execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 13.Create a script that creates a directory with permissions 751
 14.Change current group to another group
+15.Change the owner to a certain user from a certain user
