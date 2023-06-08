@@ -12,3 +12,4 @@ SCRIPTS for:
 11.Set the mode of a file same to another files mode
 12.Adding execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 13.Create a script that creates a directory with permissions 751
+14.Change current group to another group
