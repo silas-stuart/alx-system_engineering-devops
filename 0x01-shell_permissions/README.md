@@ -15,3 +15,4 @@ SCRIPTS for:
 14.Change current group to another group
 15.Change the owner to a certain user from a certain user
 16.Write a script that changes the owner and the group owner
+17.Write a script that changes the owner of the file to another file and only if it is owned by specific user
